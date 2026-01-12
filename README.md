@@ -19,3 +19,7 @@ Based on the analysis these are the insights drawn from it
 2.	The month of November had the most sales after which sales started declining
 3.	Technology(phones) generated the highest sales volume with a 36% while office supplies had the least sales volume bearing a 31%
 
+## Dashboard
+<img width="960" height="540" alt="Screenshot 2026-01-12 214414" src="https://github.com/user-attachments/assets/61c86f10-684a-420f-b3c5-a28cf585bc2b" />
+
+
